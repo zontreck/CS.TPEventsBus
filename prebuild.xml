@@ -1,0 +1,27 @@
+<Project name="CS.TPEventsBus" path="source" type="Library">
+    <Configuration name="Debug">
+        <Options>
+            <OptimizeCode>False</OptimizeCode>
+            <EnableDefaultItems>True</EnableDefaultItems>
+            <UseCommonOutputDirectory>False</UseCommonOutputDirectory>
+            <OutputPath>../../bin/debug</OutputPath>
+            <UseDependencyFile>True</UseDependencyFile>
+            <SelfContained>False</SelfContained>
+            <AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
+            <AppendRuntimeIdentifierToOutputPath>False</AppendRuntimeIdentifierToOutputPath>
+        </Options>
+    </Configuration>
+    <Configuration name="Release">
+        <Options>
+            <OptimizeCode>True</OptimizeCode>
+            <EnableDefaultItems>True</EnableDefaultItems>
+            <UseCommonOutputDirectory>False</UseCommonOutputDirectory>
+            <OutputPath>../../bin/release</OutputPath>
+            <UseDependencyFile>True</UseDependencyFile>
+            <SelfContained>False</SelfContained>
+            <AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
+            <AppendRuntimeIdentifierToOutputPath>False</AppendRuntimeIdentifierToOutputPath>
+        </Options>
+    </Configuration>
+
+</Project>

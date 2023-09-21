@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS.TPEventsBus
+namespace TP.CS.EventsBus
 {
     [AttributeUsage(AttributeTargets.Method)]
     public class SubscribeAttribute : Attribute

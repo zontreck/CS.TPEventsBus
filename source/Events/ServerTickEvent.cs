@@ -1,11 +1,11 @@
-﻿using CS.TPEventsBus;
+﻿using TP.CS.EventsBus;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS.TPEventsBus.Events
+namespace TP.CS.EventsBus.Events
 {
     /// <summary>
     /// Dispatched every 150ms ideally.

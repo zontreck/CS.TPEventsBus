@@ -1,11 +1,11 @@
-﻿using CS.TPEventsBus.Attributes;
-using CS.TPEventsBus.Events;
+﻿using TP.CS.EventsBus.Attributes;
+using TP.CS.EventsBus.Events;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace CS.TPEventsBus
+namespace TP.CS.EventsBus
 {
     public class EventBus
     {

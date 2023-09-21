@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS.TPEventsBus.Events
+namespace TP.CS.EventsBus.Events
 {
     /// <summary>
     /// This event is broadcast to all classes

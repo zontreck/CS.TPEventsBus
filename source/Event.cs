@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS.TPEventsBus
+namespace TP.CS.EventsBus
 {
     public class Event
     {
